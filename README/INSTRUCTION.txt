@@ -1,0 +1,21 @@
+	Kuidas programmi k�ivitada?
+
+1. Esialgselt teil peab olema alla laaditud ja seadistatud Java platvorm.
+1.1. Oma operatsioonis�steemi jaoks sobiva installatsioonifaili leiab siit:
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+1.2. Siit saate �ppida, kuidas Javat seadistada:
+https://www.youtube.com/watch?time_continue=80&v=l1VxWWubxFo
+Kontrollimiseks avage CMD-t ja proovige j�rgmist k�su: "javac -version"
+Kui v�ljastatakse Java versioon, siis olete edukalt installerinud Java platvormi!
+
+2. Kuidas programmi k�ivitada?
+2.1. Kopeerige arhiivis olenevaid kaustaid kuskile arhiivist v�lja (nt Desktopile)
+
+2.2. Avage kopeeritud "bin" kausta
+
+2.3. Kopeerige �les oleneva faili asukohta. N�ide olukorras see on järgmine: "Minu_Kasutaja\IdeaProjects\sisestamise-harjutaja\src"
+
+2.4. CMD-see sisestage "cd " + faili asukoht. N�ide olukorras "cd Minu_Kasutaja\IdeaProjects\sisestamise-harjutaja\src"
+
+2.5. Sisestage "java Harjutaja"

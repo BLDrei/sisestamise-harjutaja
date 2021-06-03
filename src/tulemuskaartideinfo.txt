@@ -1,0 +1,7 @@
+nimi,id,esimene aeg,teine aeg,kolmas aeg
+Andrei Solntsev,1,5821,10638,10839
+Carter Kucala,3,/,10679,4792
+Harsha Paladugu,5,40381,33662,/
+Jack Cai,7,1982,/,1952
+Max Siauw,9,4868,5302,12187
+Grigori Alekseev,54,52142,52267,45843

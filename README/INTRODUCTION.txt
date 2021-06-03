@@ -1,0 +1,8 @@
+Tere!
+Olete alla laadinud Rubiku kuubiku v�istluste (ehk WCA v�istluste) tulemuste sisestamise harjutajat.
+See programm on baseeritud Cubecomps.com lehek�lje sisestamise meetodil.
+Kui te tavaliselt kasutate kasutate mingit muud tulemuste sisestamise meetodit, siis selle programmiga ei harjuta te nii palju kui v�iksite.
+
+Autor: Andrei Solntsev
+Programm on tehtud: Aprill 2019
+Kui te leiate mingi vea, siis palun kirjutage mulle thetalkingjr@gmail.com meiliaadressile.
